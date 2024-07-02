@@ -1,0 +1,19 @@
+[
+  {
+    "cedula": "1752701381",
+    "ingreso": 80000,
+    "vivienda": 1000,
+    "educacion": 2000,
+    "salud": 10000,
+    "vestimenta": 2000,
+    "alimentacion": 0,
+    "gastos": 15000,
+    "baseimponible": 65000,
+    "excedente": 5463,
+    "fraccionbasica": 59537,
+    "Porcentaje_Excedente": 1638.8999999999999,
+    "impuesto_fraccion_basica": 8472,
+    "impuesto_renta": 10110.9,
+    "id": 1
+  }
+]

@@ -1,0 +1,26 @@
+[
+  {
+    "ruc": "14568954322435",
+    "valor": "456",
+    "gasto": "Educacion",
+    "id": 1
+  },
+  {
+    "ruc": "14578006434",
+    "valor": "567",
+    "gasto": "Vestimenta",
+    "id": 2
+  },
+  {
+    "ruc": "14568954322435",
+    "valor": "1234",
+    "gasto": "Vivienda",
+    "id": 3
+  },
+  {
+    "ruc": "1752701385",
+    "valor": "147863",
+    "gasto": "Alimentación",
+    "id": 4
+  }
+]
