@@ -1,6 +1,6 @@
 [
   {
-    "cedula": "1752701381",
+    "cedula": "1726544512",
     "ingreso": 80000,
     "vivienda": 1000,
     "educacion": 2000,
@@ -15,5 +15,56 @@
     "impuesto_fraccion_basica": 8472,
     "impuesto_renta": 10110.9,
     "id": 1
+  },
+  {
+    "cedula": "1708308687",
+    "ingreso": 123454364576,
+    "vivienda": 534,
+    "educacion": 3435,
+    "salud": 234,
+    "vestimenta": 124,
+    "alimentacion": 0,
+    "gastos": 4327,
+    "baseimponible": 123454360249,
+    "excedente": 123454254669,
+    "fraccionbasica": 105580,
+    "Porcentaje_Excedente": 45678074227.53,
+    "impuesto_fraccion_basica": 23594,
+    "impuesto_renta": 45678097821.53,
+    "id": 2
+  },
+  {
+    "cedula": "0500988928",
+    "ingreso": 80000,
+    "vivienda": 1000,
+    "educacion": 2000,
+    "salud": 10000,
+    "vestimenta": 2000,
+    "alimentacion": 0,
+    "gastos": 15000,
+    "baseimponible": 65000,
+    "excedente": 5463,
+    "fraccionbasica": 59537,
+    "Porcentaje_Excedente": 1638.8999999999999,
+    "impuesto_fraccion_basica": 8472,
+    "impuesto_renta": 10110.9,
+    "id": 3
+  },
+  {
+    "cedula": "1727652942",
+    "ingreso": 70000,
+    "vivienda": 1000,
+    "educacion": 2000,
+    "salud": 10000,
+    "vestimenta": 2000,
+    "alimentacion": 0,
+    "gastos": 15000,
+    "baseimponible": 65000,
+    "excedente": 5463,
+    "fraccionbasica": 59537,
+    "Porcentaje_Excedente": 1638.8999999999999,
+    "impuesto_fraccion_basica": 8472,
+    "impuesto_renta": 10110.9,
+    "id": 3
   }
 ]

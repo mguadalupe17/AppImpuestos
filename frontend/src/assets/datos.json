@@ -1,26 +1,32 @@
 [
   {
-    "ruc": "14568954322435",
-    "valor": "456",
-    "gasto": "Educacion",
+    "ruc": "237648298498293",
+    "valor": "721",
+    "gasto": "Vestimenta",
     "id": 1
   },
   {
-    "ruc": "14578006434",
-    "valor": "567",
-    "gasto": "Vestimenta",
+    "ruc": "28439257284321",
+    "valor": "1345",
+    "gasto": "Educación",
     "id": 2
   },
   {
-    "ruc": "14568954322435",
-    "valor": "1234",
+    "ruc": "1084724867263",
+    "valor": "156765",
     "gasto": "Vivienda",
     "id": 3
   },
   {
-    "ruc": "1752701385",
-    "valor": "147863",
+    "ruc": "19876324335434",
+    "valor": "178",
     "gasto": "Alimentación",
     "id": 4
+  },
+  {
+    "ruc": "8753689890897",
+    "valor": "10000",
+    "gasto": "Alimentación",
+    "id": 5
   }
 ]
